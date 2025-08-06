@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "custom backend for api handling",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "api handling test",
+    "start": "node index.js"
+  },
+  "author": "Muhammad-Hilal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
